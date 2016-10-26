@@ -14,6 +14,7 @@ import os
 
 
 # funcion para interpolar los datos 
+#Hola soy Alexander
 
 def interpolaDatos(THETA,R,magnitude):
   
